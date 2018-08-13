@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fe6b6b</color>
+    <color name="colorPrimaryDark">#fe6b6b</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="x_color_gradient_toolbar_one" >#fcb353</color>
+    <color name="x_color_gradient_toolbar_two" >#fe6b6b</color>
+    <color name="x_color_white" >#ffffff</color>
+    <color name="x_color_black" >#000</color>
+    <color name="x_color_transparent">#30000000</color>
+    <color name="x_color_transparent_kozami">#804527a0</color>
+
+
+</resources>

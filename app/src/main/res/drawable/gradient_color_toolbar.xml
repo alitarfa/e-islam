@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <gradient
+                android:startColor="@color/x_color_gradient_toolbar_one"
+                android:endColor="@color/x_color_gradient_toolbar_two"
+                android:angle="45"/>
+        </shape>
+    </item>
+</selector>

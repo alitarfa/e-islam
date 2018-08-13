@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">E-islami</string>
+    <string name="title_toolbar">E-Islami</string>
+
+
+    <string name="based_url_search"></string>
+    <string name="based_url">https://archive.org/metadata/</string>
+    <string name="url_ahmed_elajmi">recitation_quran_ahmedalajmy</string>
+    <string name="wadi3_elyamani">golmami2005_yahoo_002_20180414_1518</string>
+    <string name="title_activity_test">test</string>
+
+</resources>
